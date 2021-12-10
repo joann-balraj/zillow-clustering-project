@@ -6,7 +6,7 @@
 
 
 ### What Is Zillow?
-> "As the most-visited real estate website in the United States, Zillow and its affiliates offer customers an on-demand experience for selling, buying, renting and financing with transparency and nearly seamless end-to-end service. Zillow Offers buys and sells homes directly in dozens of markets across the country, allowing sellers control over their timeline. Zillow Home Loans, our affiliate lender, provides our customers with an easy option to get pre-approved and secure financing for their next home purchase. Zillow recently launched Zillow Homes, Inc., a licensed brokerage entity, to streamline Zillow Offers transactions."  [zillow.com] (https://www.zillow.com/z/corp/about/)
+> "As the most-visited real estate website in the United States, Zillow and its affiliates offer customers an on-demand experience for selling, buying, renting and financing with transparency and nearly seamless end-to-end service. Zillow Offers buys and sells homes directly in dozens of markets across the country, allowing sellers control over their timeline. Zillow Home Loans, our affiliate lender, provides our customers with an easy option to get pre-approved and secure financing for their next home purchase. Zillow recently launched Zillow Homes, Inc., a licensed brokerage entity, to streamline Zillow Offers transactions."  [zillow.com](https://www.zillow.com/z/corp/about/)
 
 ### Background
 Scenario: You are a junior data scientist on the Zillow data science team and recieve the following email in your inbox:
