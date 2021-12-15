@@ -75,4 +75,4 @@ Scenario: You are a junior data scientist on the Zillow data science team and re
 1. Clone or fork this repository
 2. Download the following files into the directory you wish to work in: aquire.py, prepare.py, explore.py, and zillow_regression.ipynb
 3. Run the zillow_regression jupyter notebook in its entirety
-4. Modify features/models/etc how you see fit
+4. Modify features/models/etc how you see fit# clustering-exercises
